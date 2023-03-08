@@ -46,7 +46,7 @@ export default function Home() {
         }
         window.addEventListener('resize', handleResize);
     });
-    
+     
     return (
         <>
             <Head>
